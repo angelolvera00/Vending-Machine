@@ -1,0 +1,3 @@
+C:/Users/Angel/CLionProjects/CannedSodaMachine/cmake-build-debug/CMakeFiles/CannedSodaMachine.dir
+C:/Users/Angel/CLionProjects/CannedSodaMachine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Angel/CLionProjects/CannedSodaMachine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
